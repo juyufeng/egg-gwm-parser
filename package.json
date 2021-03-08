@@ -1,6 +1,6 @@
 {
   "name": "egg-gwm-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "egg-gwm-parser by egg.js",
   "eggPlugin": {
     "name": "gwmParser"
@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://registry.npmjs.org/egg-gwm-parser"
+    "url": "git+http://registry.npmjs.org/egg-gwm-parser"
   },
   "bugs": {
     "url": "https://github.com/juyufeng/egg-gwm-parser/issues"
