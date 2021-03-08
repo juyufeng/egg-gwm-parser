@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://registry.npmjs.org/egg-gwm-parser"
+    "url": "git+https://github.com/juyufeng/egg-gwm-parser"
   },
   "bugs": {
     "url": "https://github.com/juyufeng/egg-gwm-parser/issues"
